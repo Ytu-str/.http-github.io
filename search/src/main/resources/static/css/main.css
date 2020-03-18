@@ -1,0 +1,107 @@
+﻿body {
+}
+.txtBox
+{
+	height:30px;
+	width:500px;
+}
+.txtBox1
+{
+	height:30px;
+	width:400px;
+}
+.txtBox2
+{
+	height:30px;
+	width:200px;
+}
+
+.txtButton
+{
+	border-style: none;
+	border-color: inherit;
+	border-width: medium;
+	margin-top:15px;
+    background: #45B549;
+    line-height: 30px;
+    width: 150px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: '微软雅黑','文泉驿正黑','黑体';
+    height: 35px;
+}
+	.querybanner
+	{ height:10px;
+	  background:#F1F0ED;
+		}
+		
+.totaldiv
+{
+	font-size:16px;
+	}
+	
+	.qbutton
+{
+	background-position: 0% 0%;
+	background-image: linear-gradient(to bottom, #33bdef, #019ad2);
+	-webkit-border-radius: 6;
+	-moz-border-radius: 6;
+	border-radius: 6px;
+	text-shadow: 0px -1px 0px #4CAF50;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	font-family: 华文楷体;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 1px;
+	border: solid #057fd0 1px;
+	text-decoration: none;
+	background-color: #45B549;
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+
+.qbutton:hover {
+  color: #ffffff;
+  background: #45B549;
+  text-decoration: none;
+}
+.butcss
+{
+	background:#F1F0ED;
+	}
+	
+	.divmid
+	{ height:10px;
+		}
+		
+		
+		.qbuttonxa
+{
+	background-position: 0% 0%;
+	background-image: linear-gradient(to bottom, #33bdef, #019ad2);
+	-webkit-border-radius: 6;
+	-moz-border-radius: 6;
+	border-radius: 6px;
+	text-shadow: 0px -1px 0px #4CAF50;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	font-family: 华文楷体;
+	color: #ffffff;
+	font-size: large;
+	padding: 1px;
+	border: solid #057fd0 1px;
+	text-decoration: none;
+	background-color: #45B549;
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+
+.qbuttonxa:hover {
+  color: #ffffff;
+  background: #45B549;
+  text-decoration: none;
+}
+	

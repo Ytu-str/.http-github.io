@@ -1,0 +1,37 @@
+﻿        .datable
+        {
+            background-color: #9FD6FF;
+            color: #333333;
+            font-size: 18px;
+            font-family: 华文楷体;
+        }
+        .datable tr
+        {
+            height: 40px;
+        }
+        .datable .lup
+        {
+            background-color: #C8E1FB;
+            font-size: 18px;
+            color: #014F8A;
+        }
+        .datable .lup th
+        {
+            border-top: 1px solid #FFFFFF;
+            border-left: 1px solid #FFFFFF;
+            font-weight: normal;
+        }
+        .datable .lupbai
+        {
+            background-color: #FFFFFF;
+        }
+        .datable .trnei
+        {
+            background-color: #F2F9FF;
+        }
+        .datable td
+        {
+            border-top: 1px solid #FFFFFF;
+            border-left: 1px solid #FFFFFF;
+            text-align: center;
+        }

@@ -1,0 +1,7 @@
+﻿ 
+/************ Table ************/  
+.xwtable {width: 100%;border-collapse: collapse;border: 1px solid #ccc;}                  
+.xwtable thead td {font-size: 16px;color: #333333;text-align: center;background: url(table_top.jpg) repeat-x top center;border: 1px solid #ccc; font-weight:bold;}  
+.xwtable tbody tr {background: #fff;font-size: 16px;color: #666666;}             
+.xwtable tbody tr.alt-row {background: #f2f7fc;}                 
+.xwtable td{line-height:40px;text-align: left;padding:4px 10px 3px 10px;height: 20px;border: 1px solid #ccc;}  
